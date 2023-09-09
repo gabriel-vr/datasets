@@ -1,4 +1,4 @@
-,country_id,country,gender_code,gender,year,amount_local_currency
+idx,country_id,country,gender_code,gender,year,amount_local_currency
 0,051,Armenia,F,Female,2013,541.28
 1,051,Armenia,F,Female,2014,569.36
 2,051,Armenia,F,Female,2015,684.03
